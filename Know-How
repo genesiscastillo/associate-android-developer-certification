@@ -1,0 +1,594 @@
+# Know-how - Inspirado en el Scrum y SAFe - Implementado desde la experiencia para Falabella
+Las siguientes metricas son el resultado de los ajustes de la metodologia en falabella.
+
+Algunas reflexiones
+
+No buscamos quemar mas puntos
+buscamos mejorar las bases y estrategias:
+como resultado, me darán mas puntos quemados.
+No buscamos hacer cualquier cosas rápido, ni codear mas ( es muy caro codear sin razón )
+buscamos analizar y diseñar más. Desarrollos, codear lo necesario, con un objetivo, con un sentido. 
+como resultado tenemos mayor velocidad y mejores estrategias.
+No se ordena la autonomía o el empoderamiento
+entregamos la herramientas y la fomentamos
+No buscamos ser indispensables
+buscamos compartir el conocimiento
+No buscamos culpables, No buscamos una estrella
+buscamos un equipo
+No buscamos hablar mas
+buscamos comunicarnos mejor.
+etc..etc...
+
+"todos los monitos bailan" y "La pista de baile"
+Todos hacemos de todo  y podemos apoyar al equipo. El cargo no me dice que exclusivamente tiene que hacer x funcion, si que soy responsable de velar por eso, pero no exclusivamente.
+El TL tambien programa
+El Scrum master es mas que un coordinador de reuniones, facilitador o que vela solo por cumplir  X metodologia.
+Tenemos que ser capaces de ir bailar a la pista, pero tambien saber cuando ir a la graderia y mirar lo que esta pasando en la pista.
+Agile Tradicional (Teórico)
+El resultado de implementar un agile de libro, teorico y/o extricto o poco flexible es una seria de consecuencias que entorpecen el trabajo y lo que esta detras de esta simple grafica es:
+
+un equipo desgastado, desmotivado, atentiendo siempre la urgencia, con la sensacion de estancamiento, con la sensacion de hacer un millon de cosas, pero sin llega a puerto, sin exito, sin gloria, sin descanzo, sin alegrias.
+ambiente laboral deteriorado
+reuniones de explicación
+desconfianza
+mas presión y mas miradas
+irritabilidad
+mas preguntas
+sin tiempo.
+sin planificación
+
+
+
+
+Ajustes en la metodología - Agile desde la experiencia.
+Caso 1.
+El mismo equipo después de implementar los ajustes de la metodología.
+
+detras de este grafico hay:
+
+Un esfuerzo gigante de parte de todo el team, mas diseños, mas planificación, mas estrategias
+atomizacion de las historias
+mas refinamientos
+los refinamiento son diarios y en un brecha de tiempo de 1 hr, esto ya que no es factible resolver todos los temas de la historia cuando dependemos de varias integracion, areas, definciones, etc.. que toman mayor tiempo o hasta un spike.
+modulariazion de los desarrollos y pensamiento a corto, mediano y largo plazo.
+Mejores historias de usuario
+mayores definiciones
+mayo clarididad
+trabajo para adelantar solicitudes del sprint en curso y el que viene.
+trabajo para adelantar definiciones del sprint en curso y el que viene.
+trabajo para acuerdos con las areas para el sprint en curso y el que viene
+mayor trabajo para resolver dependencias del sprint en curso y el que viene.
+Un punto importante es que el nivel de definicion de las HU, nos permite, diseñar, atomizar y adelantarnos.
+
+
+
+
+El mismo equipo en un sprint posterior, con mayor experiencia y autogestionado.
+
+Ya tenemos un espacio de tiempo que ganamos en el sprint anterior, un sprintbacklog mas completo y comenzamos a disfrutar algunos resultados.
+
+Antes de iniciar el sprint actual, podemos comenzar a revisar la planificacion y la atomizacion es mas facil, mas llevadera, se reducen las complejidades ya que esta todo mas claro.
+
+mas confianza
+mas credibilidad
+mas velocidad
+mas empoderamiento y autonomia
+mejor ambiente
+menos justificaciones, menos escalamientos
+mas felicitaciones
+podemos apoyar con refuerzos sin que moleste al resto del equipo.
+ya que tenemos dependencias resueltas y equipos planificados con anterioridad, podemos entregar mas control, mejor comunicacion y mas reuniones de trabajo para resolver.
+continuamos refinando para continuar generando el espacio que nos permite planificarnos y podriamos aplazar un poco la peridiocidad de los refinamientos.
+
+
+
+
+El velocity del equipo se duplicó.
+
+ahora se hace mas, con la mismas personas, ahora todo tiene mas sentido y es mucho mas facil avanzar.
+
+
+
+
+
+
+
+Caso 2.
+Otro caso de éxito, con un equipo más maduro.
+
+
+
+
+
+(estrella) Terminaron el proyecto antes de tiempo.
+
+todos felices. (sonrisa)
+
+
+
+Caso 3.
+Otro caso y este ahora es con un equipo totalmente nuevo y externo
+
+La curva demuestra que interiorizaron la metodología, pero que demoraron en implementarla.
+
+El burndown y el equipo comienzan a tomar forma.
+
+
+
+
+
+En el siguiente sprint podemos ver mejora y continúan mejorando
+
+
+
+
+
+El Velocity va en aumento.
+
+( equipo totalmente nuevo y externo )
+
+
+Caso 4 y el equipo con mayores progresos y logros (FConnect)
+Un equipo que paso de:
+
+Transformación de un equipo que trabaja con la operación
+
+Bajo Demanda
+Kanban
+scrumban
+Scrum a medias
+Scrum desde la experiencia
+
+Antes
+
+
+el primer sprint bajo la nueva metodologia
+ya se puede ver una mejora de performance sustancial
+
+
+
+ahora que se logro el espacio, se mejoraron las cosas, el desafio es mantener el ritmo y hasta ahora se va cumpliendo. 
+
+Aplausos - PicMix
+
+
+
+
+
+
+
+Aplausos - PicMix
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ajustes a la forma de trabajo
+
+
+Tenemos que comprender que:
+
+Trabajar en el holding involucra trabajar con áreas/empresas/metodologías/personas/idiomas distintos, distantes y no significa que este mal.
+El Holding esta en constante movimiento.
+Los framework Agile, son una guía, no un reglamento y tendremos que adaptarlas.
+Scrum · Kanban · Extreme Programming (XP) · Adaptative Project Framework (APF).
+Existen varios marcos de trabajo y tenemos que usar el que se adapte al entorno y experiencia del equipo.
+Los mejores resultados son una consecuencia de los ajustes y no un objetivo.
+Hacer rápido las cosas, no significa ser mejor o ser mas agile. Sin un Goal, no tiene sentido.
+todos tienen prioridades y tenemos que compreder que son distintas a las tuyas.
+tenemos mas beneficios al conversar que al escalar.
+los acuerdos se pueden lograr.
+la planificación se puede lograr, pero no es automagica, tenemos que trabajar bastante para obtenerla.
+compartir y ayudar es un circulo que cuando se completa, obtienes muchos beneficios.
+la auto gestion y autonomia no son un switch. Se necesitan muchas herramientas, conocimientos, diciplina y personalidad.
+no existen preguntas tontas ni ideas muy locas.
+no tener miedo a equivocarse o pedir ayuda. Malo seria no hacerlo.
+Las excepcion son excepciones y no una regla.
+
+
+Algunos ejemplos practico y sencillos de hacer
+
+como fomentamos y mejoramos la autogestion.
+fomentar un SLA y escalamiento interno
+Ejemplo:
+esperar 1 dia la respuesta, despues de eso hacer una insistencia, porsterior a eso, llamar, posterior a eso, pedir ayuda al scrum master.
+si tengo un inconveniente puedo preguntar al senior del equipo o al TL o al TM o arquitecto (una especie de escalmiento interno para resolver temas tecnicos).
+reutilizar conceptos, soluciones, codigos, etc...No pierdo nada con preguntar a mi equipo o a otros equipos si alguien ya resolvio un problema similar.
+reconocer cuando estoy haciendo un tema por desafio personal y estoy siendo contraproducente para el obejtivo del equipo. Es importante detenerse a tiempo y pedir ayuda.
+si tengo un desafio super entretenido, estoy motivado y empecinado en lograrlo. Tengo que saber cuando detenerme:
+no es bueno tener un miembro del equipo desvelado todos los dias porque no ha podido resolver el tema y no quiere pedir ayuda porque sabe que lo puede lograr, pero no nos damos cuenta que el costo para el equipo será muy alto.
+existen instancias y tiempos para esto y a veces tenermos que tomar el orgullo y privilegiar el bien comun del equipo al sobre salir por lograr algo solo.
+seras mas reconocido por esta accion que por lograr algo en solitario.
+tampoco tenemos que abusar del pedir ayuda.
+El que termina primero le ayuda al compañero o refina.
+foco de soporte - se puede ir bloqueando el soporte que pudiera salir y ese integrante puede tomar menos puntos para que pueda ayudar a proteger el sprint y al equipo.
+Capacitar a soporte. Soporte nos puede ayudar un monton a bloquear temas triviales y nos ayudan a proteger el sprint. si pueden invertir en automatizar o resolver deuda tecnica que aporte valor, invitamos para nosotros mismos del futuro.
+evitemos caer en el yo dije..., tu dijiste...., yo pense que....,  etc..
+mejor hagamoslo o preguntemos si esta hecho.
+Ganamos todos y perdemos todos
+como hacemos lo complejo mas sencillo y no mas complejo.
+foco en las reuniones
+mas reuniones de trabajo y menos reuniones sin objetivo.
+La mejora es incremental y continua
+una vez que se llega a un nivel de madurez es momento de aumentar el nivel y hacer las cosas diferentes. 
+IN PROGRESS
+
+
+La Comunicación
+
+se necesita mas comunicacion y de una mejor calidad.
+Canales
+Se necesita
+IN PROGRESS
+
+
+
+
+Mejorar las Historias de Usuario
+
+Las historias de usuario normalmente son pobres, ambiguas y en muchos casos, no existen.
+
+Los motivos de esto son varios y es aquí en donde podemos ajustar algunas cosas:
+
+El PO tiene que subir su nivel analítico para que pueda desarrollar una historia de usuario.
+El PO debe comprender que no es un Cliente o un Usuario y que es parte del equipo.
+El PO debe comprender que cuando el equipo falla o se habla mal del equipo, él esta fallando como lider.
+El PO tiene que comenzar a empoderarse  del equipo, el producto y comprender que él, es el pilar fundamental para aumentar la velocidad del equipo.
+El PO tiene que ser mas accesible y Flexible. ( Mentalidad de MVP )
+El PO debe saber priorizar y conocer el rendimeinto del equipo.
+El PO tiene que el equipo puede entregar pesos, pero no fechas o prioridades.
+El PO tiene que tener el valor de transparentar y saber transmitir el estado del equipo.
+El PO no puede hacer compromisos sin consultar con sus expertos o con el equipo.
+El PO tiene que ser una persona confiable y transparente para el equipo
+El PO tiene que desarrollar mas tolerancia a las preguntas.
+El PO tiene que conocer sus funciones y responsabilidades.
+El es dueño de la priorizacion, del backlog.
+El PO tiene que comprender que el sprint entrega el resultado inmediato o acumulado de las decisiones que lidera en cada incremento.
+IN PROGRESS
+
+
+Para apoyar a los PO en el desarrollo de una historia, generé un template que considero una guia y un desde .
+
+
+Historia de Usuario Template 
+
+ Se pueden usar todo o parte de esto, según la historia que se armen. Esto es una guía. 
+
+ Contexto 
+
+Contexto sobre la situación actual o explicación del contexto para la HU 
+Entonces,  
+
+COMO : <<Perfil>>, (¿para quién desarrollamos esto?) 
+QUIERO : aquí describimos su intención, no las funciones que usan. ¿Qué es lo que están intentando lograr realmente? 
+PARA : ¿Cuál es el beneficio general que intentan lograr? ¿Cuál es el gran problema que debe resolverse? 
+Alcance 
+
+scope 
+Fuera de Alcance 
+
+out of scope 
+Dependencias 
+
+Declarar las dependencias que pudieran existir de sistemas o áreas y si están resueltas. 
+
+Comentarios Técnicos 
+
+Cosas técnicas que se tengan que considerar o declarar 
+
+UX 
+
+consideraciones Ux, entregas de pantallas o pantallas donde se tiene que hacer las modificaciones.
+
+Criterios de aceptación 
+
+CA1.-  "titulo << opcional>>" 
+
+Dado ,Cuando, Entonces  
+
+ Ejemplo: 
+
+Dada una petición a la página de búsqueda  
+cuando se carga la página en el navegador  
+entonces el cursor se desplaza al cuadro de búsqueda para que el usuario pueda comenzar  
+a teclear de inmediato 
+
+
+
+
+Scrum Master
+
+Debe comprender que un scrum master que solo vela por la metodologia y se encarga de gestionar reuniones, no sirve.
+El Scrum master tiene que comprender las soluciones tecnicas, manejar estrategias que aporte valor en las gestiones y no sea un simple proxy.
+El Scrum master tiene que convertirse en un verdadero facilitador del sprint en curso, el sprint siguiente y el siguiente.
+IN PROGRESS
+
+
+LT
+
+Elegir un backUp con experiencia y en donde el equipo pueda apoyarse.
+LT tiene que comenzar a diseñar soluciones
+impulsar que el equipo comience a diseñar mas
+resolver los problemas mas complejos, inmediatos y futuros.
+Fomentar soluciones en base a capacidades y que podamos comenzar a reducir desarrollos ( reutilizando )
+hacer juicios de experto
+revisar factibilidades
+refinar y diseñar historias inmediatas y de los proximos sprint
+atomizar soluciones
+fomentar reuniones de trabajo
+IN PROGRESS
+
+
+Dev Team
+
+autogestion
+Diseñar soluciones
+levantar todo lo necesario para ejecutar cada historia
+atomizar soluciones
+idealmente historias menores a 8 puntos 
+empoderamiento
+apoyo al resto
+el que termina primero ayuda al equipo o ayuda a refinar el siguiente sprint
+IN PROGRESS
+
+
+Los Sprint.
+
+tenemos que comprender que los sprint:
+
+no pueden ser completamente con desarrollo ya que acumularan deuda tecnica y no habra espacio para soportes de los entregables anteriores.
+tenemos que detectar y quitar las gestiones dentro del sprint actual e idealmente de los siguientes 2 sprint.
+en el caso de que existan gestiones que no se lograron detectar antes. Estas tienen que ser levantadas y gestionadas los primeros 2 días del inicio del sprint.
+tratar de no tomar HU que no esten resueltas
+si durante el sprint no tenemos soporte o deuda tecnica, entonces tenemos que apoyar al equipo, pero si esto esta cubierto, entonces tenemos que tomar el refinamiento del siguiente sprint.
+IN PROGRESS
+
+
+el prime sprint puede ser de esta forma
+
+
+
+los sprint siguientes, se arman de la siguiente forma
+
+
+
+Ejemple de uns Sprint 0 = Setup inicial
+
+proyecto en el cloud
+permisos
+cuentas
+repos
+gestiones del sprint siguiente
+POC de Conectividad
+normalmente esta todo bloqueado o faltan reglas para que los cluster o infra o BD se puedan comunicar y fluir
+se arman las estructuras de clases
+levantan las estrategias 
+Análisis y Diseño del sprint siguiente
+se levantan los riesgos y definiciones
+se definen los contratos 
+en caso de que se requiera ayuda de otra area, esto sirve para que puedan comenzar a trabajar en un flujo paralelo al nuestro.
+se hacen los acuerdos con otras areas y planifican fechas
+% de dedicación de gente o levantar la mano para salir a pedir mas recursos para que nuestro proyecto tenga toda la ayuda que necesita
+(*) todo esto se hace apuntando al siguiente sprint y una nocion de objetivo final. 
+
+No se hace para el producto completo ya que el los recursos son limitados y puede que algo cambie en el camino, Lo que hacemos para eso, es llevarlo a la mesa con el arquitecto y asi visualizar el TO BE y tratar de adelantarse e ir ganando tiempos en cada sprint.
+
+
+
+Refinamientos
+
+El refinamiento del siguiente sprint, se hace en bloques pequeños y durante el sprint actual.
+
+Es muy dificil que en una sola sesion larga tengamos la consentracion y logremos detectar las soluciones, riesgos y dependencias. Es por eso que dejamos reposar las ideas y continuamos el dia siguiente.
+
+por lo tanto casi todos los dias le levantan riesgos del siguientes sprint que se solicitar y se tratar de resolver lo antes posible para quitar la gestion del sprint y que este resuleto al ritmo del area/empresa que lo realiza.
+
+en caso de no tener nada que refinar, se usa ese tiempo para hacer per programing o  saltarla si aplica.
+
+IN PROGRESS
+
+
+Las Dependencias
+
+es muy importante detectar las dependencias que podriaos tener durante los siguientes sprint y gestionarlas de inmediato para que esten resueltas cuando el sprint se ejecute.
+
+tambien es muy importante tratar de no tomar HU que no tengan sus dependencias resueltas.
+
+Las dependencias pueden ser:
+
+Definiciones de negocio
+otros equipos/areas/empresas del holding
+seguridad
+arquitectura
+Infrestructura
+FTC
+presupuesto
+Autorizaciones
+OK 
+comites
+mas desarrolladores
+ambientes
+IN PROGRESS
+
+
+si las dependencias ( riesgos ) son con otra area es impotante levantarlas, lograr acuerdos, conseguir el presupuesto de ante mano para que cuando se requiera lo podamos ejecutar sin problemas.
+IN PROGRESS
+
+
+Diseño de soluciones
+
+este punto es uno de los mas importantes, ya que si diseño bien la solución, en base a un mapa de capacidades y con soluciones atómicas, seremos capaces de aprovechar al máximo las habilidades de un junior y un senior.
+Seremos capaces de crecer sin inconvenientes.
+Incorporar una persona nueva en la mañana y que en la tarde este programando. ( ayer lo hicimos en Connect )
+Reducir la curva de aprendizaje
+esto permite pedir ayuda a otro equipo y que podamos resolver rápido sin la necesidad de que conozcan el negocio.
+Trabajar con equipos externos fácilmente u otros paises
+simplificar las soluciones con tecnología o con estrategias
+Pensemos en un MBP
+aunemos esfuerzos ( apis que ya hacen lo que necesitamos )
+como resolvieron otros equipos
+pensemos en arquitecturas de transicion
+IN PROGRESS
+
+
+Las Herramientas para el seguimiento.
+
+Usemos las herramientas que tenemos como corresponde
+
+Confluence.
+Diseñemos y documentemos lo que basico.
+Jira
+movamos las historias atomizadas para ir viendo avances y lograr detectar cuando se requierea ayuda.+
+Usermos/creemos los paneles para hacer le seguimiento proactivo.
+
+ejemplo: https://jira.falabella.com/secure/Dashboard.jspa?selectPageId=24182
+
+
+
+
+
+
+
+
+
+
+
+
+
+Resultados
+
+Al refinar durante el sprint, llegamos a la planning mejor preparados, mas ajustado los puntos de historias y reuinones mas cortas ya que la mayoria de los temas ya estan desbloqueados o proximos. por lo tanto mucho menos incertidumbre.
+tambien el terminar de diseñar la solucion es mas rapido
+cualquiera del equipo puede apoyar en las tareas del otro
+IN PROGRESS
+
+
+Tips
+
+( el Scrum Master acá es indispensable - push de los temas)
+
+Flexibilidad - esto siempre puede cambiar.
+Impulsar Focal para cada tema.
+Tenemos que comprender que el  sprint lo compone, tiempo para desarrollos nuevos, deudas técnica y soportes productivos
+si no se usa el tiempo de soporte, entonces se puede redistribuir en nuevos desarrollos o deuda técnica.
+Impulsamos que el PO arme el spring backlog del siguiente sprint y se convierta en PO, sea parte del equipo y deje de ser Usuario/Cliente.
+Mayor analisis sobre lo que requiere, mas definiciones
+Formamos equipos multidisciplinarios y no equipos para un producto.
+Quitamos la mayor cantidad de gestiones del sprint actual y las solicitamos durante en el sprint anterior.
+Refinamos en conjunto todos los días 1 o 1/2 hora
+divido la reunión en 2 partes
+1.- refinamos en conjunto el sprint backlog siguiente, analizando y diseñando la solución, levantamos los posibles riesgos, definiciones faltantes e identificamos dependencias con otras areas/equipos/empresas y pedimos las gestiones o coordinaciones necesarias para que se trate de resolver, definir, desbloquear, antes o a más tardar los primeros días del sprint.
+2.- revisamos quien esta por terminar o tiene más tiempo, quien está complicado con código o requiere apoyo con su diseño de solución.
+Vemos estrategias para avanzar según la cantidad de días que nos quedan
+Cuando inicia el sprint el equipo dedica las primeras horas a terminar de diseñar, revisar y detectar en sus HU, Todas las gestiones, definiciones, accesos,  que pudieron faltar o que no se alcanzaron a detectar y se solicitan de inmediato
+también se piensa en una estrategia para avanzar mientras esas gestiones se resuelven.
+Empoderar al equipo, dándole las herramientas para que puedan desarrollar la autogestión dentro de la compañía.
+Dando los contactos.
+Acompañándolos
+haciendo acuerdos con las otras áreas y dejar en contacto directo.
+Entregando información clara de lo que se espera que hagan.
+Escuchando las propuestas y permitir que las lideren e implementen.
+Más reuniones de trabajo.
+Tener acceso oportuno y anticipado a los lineamientos internos, diagramas de capacidades
+aca esta el marco de DESARROLLO SEGURO para apis
+https://confluence.falabella.com/pages/viewpage.action?pageId=148490879
+ 
+ 
+ACUERDO DE TRABAJO:
+https://confluence.falabella.com/pages/viewpage.action?pageId=133209010
+ 
+Para inicio de actividades llenar DoR:
+https://confluence.falabella.com/display/ASC/DoR+Template+Unificado 
+ 
+ 
+CheckList DevSecOps:
+https://confluence.falabella.com/display/SFR/Checklist+DevSecOps 
+ 
+CheckList EthicalHacking:
+https://confluence.falabella.com/display/SFR/Checklist+Ethical+Hacking
+ 
+Correo del Equipo Seguridad:
+seguridadretail@Falabella.cl AQUI SE DEBE PEDIR LA REVISION DE SEGURIDAD PERO SE DEBE LLENAR EL DoR PRIMERO
+ 
+Usuarios para Pizarra Jira (Asignar rol Developer)
+ (Asdrubal Ordaz) ext_aeordaz@falabella.cl, 
+ (Pedro Ortegano) pandortegano@falabella.cl, 
+ (Everth Alvarez) ext_ejprovoste@Falabella.cl
+ 
+https://gitlab.falabella.com/tech-corp/seguridad-de-la-informacion/ci-templates
+ 
+https://gitlab.falabella.com/tech-corp/seguridad-de-la-informacion/ci-templates/gke-fixer
+
+IN PROGRESS
+
+
+El formato de trabajo esta inspirado en 
+
+
+
+
+
+Escalamiento de células.
+Inspirados en SAFe
+
+
+
+El escalamieto de este formato se inspira en SAFe
+
+IN PROGRESS
+
+
+
+
+
+
+Roles /funciones/ Teams
+IN PROGRESS
+Rol	Funciones	comentario
+Developers ( FullStack / FrontEnds / BackEnds )	Equipo de Desarrollo	
+TL	
+es un TL programador y se encarga de apoyar, guiar y diseñar las soluciones
+
+en conjunto con el Arquitecto y el TM
+
+El TL también programa y lo hace para apoyar en temas complejos, habilitadores para el resto del equipo y tiene que tener un amplio conocimiento en soluciones, tecnologías y Arquitectura orientada a DDD
+QA	Asegurar la calidad del entregable	estamos apuntando a ir a un QA de automatización
+DevOps	configuraciones de recursos usados por los desarrolladores para implementar una solución, además de pipelines y apoyo técnico respecto de las nubes para utilizar tecnologías.	
+Actualmente los devops son parte del equipo lo que agiliza un poco más el delivery.
+
+Antes eran parte de otra área y tenían una cola de trabajo general
+
+siguen alineados con el área de infraestructura, pero dentro de la célula
+
+Scrum Master	
+habilitador de equipo
+
+vela por la metodología agile
+
+Apoya al PO
+
+Presupuesto
+
+Estrategias
+
+protege el sprint en curso
+
+El Scrum master en Falabella es mas que un scrum Master, ya que tiene que poder trabajar con presupuestos, estrategias, comprender la parte técnica. Interactuar con otras áreas, coordinar, resolver y guiar las reuniones y ceremonias del sprint actual y del sprint próximo. Apoyar el PO
+TM	el coach	el TM tiene varios equipos que mantiene, guía y entrena
+Es el responsable de todo el equipo y puede apoyar a todos los integrantes del equipo.
+Además se encarga de la parte administrativa del equipo.
+Realiza e implementa nuevas estrategias, correcciones de rumbo, guiar al equipo completo,  etc..
+Se mueve desde la parte administrativa hasta la parte técnica, incluyendo diseño de soluciones y arquitecturas
+Arquitecto	Se encarga de plantear las soluciones de arquitectura con visión corporativa	es apoyado por el TL, TM
+PO	es el responsable del producto y baja a historias las directrices del negocio	en Falabella pasa bastante que el PO todavía es un poco usuario, pero trabajamos en ello.
+Otras equipos/Areas/empresas	Seguridad, Oracle Soporte, datalake, área MDW, administración de sistemas, Soporte, otros equipos que pueden tener el origen de datos Cloud o Legacy, otras empresas del grupo que contienen un dominio de negocio del que se requiere homologaciones o trabajar en conjunto en definiciones o extractores, etc. etc.	No todos los equipos trabajan con agilidad, o se encuentran maduros con sus procesos.
+Existen equipos que trabajan bajo demanda, cascada, kanban, scrumban, Scrum, agilida teorica, Soporte.
+Me gustaSé el primero al que le gusta esto
